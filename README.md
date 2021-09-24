@@ -1,4 +1,4 @@
-https://github.com/Alyattes/ALYA/blob/main/Original.png
+<img src="https://github.com/Alyattes/ALYA/blob/main/Original.png"> 
 
 # ALYATTES
 
